@@ -209,6 +209,16 @@
 
 ---
 
+## 💬 在GitHub Discussions中讨论
+
+**👉 [在讨论区分享你的追踪方法](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-02)**
+
+- 分享你的记录方法和发现
+- 询问如何追踪你的症状
+- 交流数据分析的经验
+
+---
+
 📊 **系列文章目录**（点主页查看）
 01 · 度洛西丁使用者互助指南：你不是一个人
 02 · 用药必备：90天症状追踪表（本篇）

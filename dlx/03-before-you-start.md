@@ -420,6 +420,16 @@
 
 ---
 
+## 💬 在GitHub Discussions中讨论
+
+**👉 [在讨论区分享你的选择](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-03)**
+
+- 分享你如何做出用药决定的
+- 讨论替代治疗方案
+- 与医生沟通的经验
+
+---
+
 ### ⚠️ 免责声明
 本文仅供信息交流，不构成医疗建议
 任何用药决策必须在医生指导下进行

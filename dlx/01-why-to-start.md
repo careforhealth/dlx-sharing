@@ -332,6 +332,16 @@
 
 ---
 
+## 💬 在GitHub Discussions中讨论
+
+**👉 [在讨论区分享你的经验](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-01)**
+
+- 分享你的用药故事
+- 提出你的问题
+- 互相支持和鼓励
+
+---
+
 ## 📌 干货合集持续更新
 
 💡 因为小红薯的推流方式，你点个**关注**才能收到推送，不错过每次分享～
