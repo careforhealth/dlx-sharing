@@ -422,7 +422,7 @@
 
 ## 💬 在GitHub Discussions中讨论
 
-**👉 [在讨论区分享你的选择](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-03)**
+**👉 [在讨论区分享你的选择](https://github.com/careforhealth/dlx-sharing/discussions/4)**
 
 - 分享你如何做出用药决定的
 - 讨论替代治疗方案

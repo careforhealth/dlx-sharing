@@ -14,30 +14,30 @@ A project for sharing and collaborative development.
 
 ## 🎯 我们提供
 
-**📚 实用信息**：科学减药方法（微珠减量法）、副作用应对、品牌对比、国内外研究
-**💬 同伴支持**：分享故事、获得理解、困难时刻的鼓励
-**🛠️ 工具资源**：症状追踪表、减药计划、就医指南
-**🤝 长期陪伴**：减药是马拉松，我们陪你走完全程
+- **📚 实用信息**：科学减药方法（微珠减量法）、副作用应对、品牌对比、国内外研究
+- **💬 同伴支持**：分享故事、获得理解、困难时刻的鼓励
+- **🛠️ 工具资源**：症状追踪表、减药计划、就医指南
+- **🤝 长期陪伴**：减药是马拉松，我们陪你走完全程
 
 ## 🌟 价值观
 
-**相互尊重**：不评判、只倾听
-**科学为本**：分享经验但不替代医疗建议
-**隐私保护**：可匿名分享，信息保密
-**赋能自主**：帮你成为自己的专家
-**希望导向**：康复是可能的
+- **相互尊重**：不评判、只倾听
+- **科学为本**：分享经验但不替代医疗建议
+- **隐私保护**：可匿名分享，信息保密
+- **赋能自主**：帮你成为自己的专家
+- **希望导向**：康复是可能的
 
 ## 👥 谁适合加入
 
-✅ 正在服药/减药的人
-✅ 患者家属和朋友
-✅ 成功停药的康复者
-✅ 关注用药安全的人
+- ✅ 正在服药/减药的人
+- ✅ 患者家属和朋友
+- ✅ 成功停药的康复者
+- ✅ 关注用药安全的人
 
 ## 📜 社区规则
 
-**✅ 鼓励**：分享真实经历、提问、互相支持、分享资源
-**❌ 禁止**：医疗建议、推销产品、攻击诋毁、散布恐慌、泄露隐私
+- **✅ 鼓励**：分享真实经历、提问、互相支持、分享资源
+- **❌ 禁止**：医疗建议、推销产品、攻击诋毁、散布恐慌、泄露隐私
 
 ## 🚨 免责声明
 
@@ -83,12 +83,12 @@ A project for sharing and collaborative development.
 ## 💬 参与讨论和分享
 
 ### GitHub Discussions
-每篇文章都有对应的讨论分类，欢迎分享你的经验、提问和互相支持：
+每篇文章都有对应的讨论区，欢迎分享你的经验、提问和互相支持：
 
-- **[📖 系列01讨论](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-01)** - 使用者互助指南
-- **[📊 系列02讨论](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-02)** - 症状追踪表
-- **[⚠️ 系列03讨论](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-03)** - 开始前的真相
-- **[💔 系列04讨论](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-04)** - 戒断困难分析
+- **[📖 系列01讨论](https://github.com/careforhealth/dlx-sharing/discussions/2)** - 使用者互助指南
+- **[📊 系列02讨论](https://github.com/careforhealth/dlx-sharing/discussions/3)** - 症状追踪表
+- **[⚠️ 系列03讨论](https://github.com/careforhealth/dlx-sharing/discussions/4)** - 开始前的真相
+- **[💔 系列04讨论](https://github.com/careforhealth/dlx-sharing/discussions/5)** - 戒断困难分析
 
 ### 小红书社区
 在小红书上关注我们，获取更新内容和互助讨论：

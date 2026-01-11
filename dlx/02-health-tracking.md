@@ -211,7 +211,7 @@
 
 ## 💬 在GitHub Discussions中讨论
 
-**👉 [在讨论区分享你的追踪方法](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-02)**
+**👉 [在讨论区分享你的追踪方法](https://github.com/careforhealth/dlx-sharing/discussions/3)**
 
 - 分享你的记录方法和发现
 - 询问如何追踪你的症状

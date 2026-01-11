@@ -334,7 +334,7 @@
 
 ## 💬 在GitHub Discussions中讨论
 
-**👉 [在讨论区分享你的经验](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-01)**
+**👉 [在讨论区分享你的经验](https://github.com/careforhealth/dlx-sharing/discussions/2)**
 
 - 分享你的用药故事
 - 提出你的问题

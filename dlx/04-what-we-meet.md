@@ -469,7 +469,7 @@ E. 其他
 
 ## 💬 在GitHub Discussions中讨论
 
-**👉 [在讨论区分享你的减药经历](https://github.com/careforhealth/dlx-sharing/discussions/categories/series-04)**
+**👉 [在讨论区分享你的减药经历](https://github.com/careforhealth/dlx-sharing/discussions/5)**
 
 分享你的经验帮助其他人：
 - 你的减药方案是什么？
