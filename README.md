@@ -1,7 +1,3 @@
-# DLX Sharing
-
-A project for sharing and collaborative development.
-
 # 🫂 度洛西丁互助社区
 
 ## 💫 欢迎
