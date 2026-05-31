@@ -1,4 +1,4 @@
-# 安全减药指南：科学的度洛西汀减量方法
+﻿# 安全减药指南：科学的度洛西汀减量方法
 
 > 基于 HealthWithoutAntidepressants 社区 40,000+ 成员的实践经验和研究
 
@@ -391,3 +391,13 @@
 *阅读时间：约 25-30 分钟*
 
 💙 希望这篇指南能帮助到你。请继续阅读下篇了解症状管理详情！
+
+---
+
+### ☕ 请作者喝杯咖啡
+
+如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
+
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
+
+感谢一路相伴 🙏

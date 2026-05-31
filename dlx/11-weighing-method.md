@@ -1,4 +1,4 @@
-# 称量减量法：科学停药的精确方案
+﻿# 称量减量法：科学停药的精确方案
 
 ---
 
@@ -381,3 +381,13 @@ www.theinnercompass.org/taper/counting-beads-beaded-capsule
 ---
 
 #度洛西丁 #停药经验 #称量减量法 #科学停药 #减药攻略 #戒断症状 #欣百达 #患者互助 #抗抑郁药 #双曲线减量 #精神科用药
+
+---
+
+### ☕ 请作者喝杯咖啡
+
+如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
+
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
+
+感谢一路相伴 🙏
