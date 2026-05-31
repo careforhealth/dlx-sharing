@@ -104,6 +104,50 @@
   - 症状评估与调整策略
   - 心理建设与社区支持
 
+**第八步：全面减药方法（25分钟）**
+- [系列08 🔬 安全减药指南：科学的度洛西汀减量方法](dlx/07-safe-tapering-guide.md) - 减量原理与操作 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/10)
+  - 药理学基础：为什么需要这么慢
+  - 5%减量的科学原理（双曲线递减法）
+  - 三种推荐的减量方法
+  - 减量计算详解与时间规划
+
+**第九步：症状管理与应对（20分钟）**
+- [系列09 🩺 安全减药指南：症状管理与应对（中篇）](dlx/08-symptom-management.md) - 症状识别与处理 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/11)
+  - 戒断症状全面解析（神经系统、情绪、躯体）
+  - 症状管理策略与减量日志模板
+  - 个体化减量方案设计
+  - 紧急情况处理
+
+**第十步：常见问题解答（15分钟）**
+- [系列10 ❓ 20个高频问题全解答](dlx/09-faq-resources.md) - 你担心的，这里都有 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/12)
+  - 减量原则、时间安排、操作方法
+  - 戒断症状、生活支持
+  - 科学依据与研究证据
+
+**第十一步：副作用识别（15分钟）**
+- [系列11 📋 副作用识别指南](dlx/07-side-effects-complete.md) - 病情vs副作用vs戒断反应 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/13)
+  - 三个概念的区分与识别方法
+  - 常见副作用完整清单
+  - 需要立即就医的症状
+
+**第十二步：戒断症状应对（15分钟）**
+- [系列12 📖 戒断症状科学应对策略](dlx/08-withdrawal-management-strategy.md) - 完整应对方案 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/14)
+  - 戒断症状完整清单
+  - 实用应对策略（睡眠、饮食、运动等）
+  - 减量调整信号与恢复期望
+
+**第十三步：静坐不能识别与应对（15分钟）**
+- [系列13 🆘 静坐不能（Akathisia）应对指南](dlx/10-akathisia-guide.md) - 被忽视的药物反应 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/15)
+  - 什么是静坐不能及症状表现
+  - 与普通焦虑的区分
+  - 如何与医生有效沟通
+
+**第十四步：精确减量操作（15分钟）**
+- [系列14 ⚖️ 称量减量法指南](dlx/11-weighing-method.md) - 科学停药的精确方案 | [💬 讨论](https://github.com/careforhealth/dlx-sharing/discussions/16)
+  - 精密称重操作方法
+  - 工具清单与详细操作步骤
+  - 低剂量时的应对策略
+
 ---
 
 ## 💬 参与讨论和分享
@@ -119,6 +163,13 @@
 - **[💊 系列05b讨论](https://github.com/careforhealth/dlx-sharing/discussions/7)** - 戒断症状应对方案
 - **[⚠️ 系列06讨论](https://github.com/careforhealth/dlx-sharing/discussions/8)** - 度洛西丁为什么隔天吃不行？
 - **[🎯 系列07讨论](https://github.com/careforhealth/dlx-sharing/discussions/9)** - 戒断症状管理：科学应对策略
+- **[🔬 系列08讨论](https://github.com/careforhealth/dlx-sharing/discussions/10)** - 安全减药指南：科学的减量方法
+- **[🩺 系列09讨论](https://github.com/careforhealth/dlx-sharing/discussions/11)** - 症状管理与应对
+- **[❓ 系列10讨论](https://github.com/careforhealth/dlx-sharing/discussions/12)** - 20个高频问题全解答
+- **[📋 系列11讨论](https://github.com/careforhealth/dlx-sharing/discussions/13)** - 副作用识别指南
+- **[📖 系列12讨论](https://github.com/careforhealth/dlx-sharing/discussions/14)** - 戒断症状科学应对策略
+- **[🆘 系列13讨论](https://github.com/careforhealth/dlx-sharing/discussions/15)** - 静坐不能（Akathisia）应对指南
+- **[⚖️ 系列14讨论](https://github.com/careforhealth/dlx-sharing/discussions/16)** - 称量减量法指南
 
 **💡 提示**: 在GitHub Discussions中讨论意味着：
 - 你的经验将被永久保存，帮助无数后来者
@@ -228,6 +279,6 @@
 
 ---
 
-*最后更新：2026年1月 · 有问题欢迎在Discussions中讨论*
+*最后更新：2026年5月 · 有问题欢迎在Discussions中讨论*
 
 **#度洛西丁 #互助社区 #减药经验 #用药安全 #患者权益 #心理健康**
