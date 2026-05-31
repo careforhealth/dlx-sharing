@@ -343,16 +343,6 @@
 
 ---
 
-### ① 2025年最新研究
-
-**《柳叶刀·精神病学》抗抑郁药减量研究**
-证实缓慢减量配合心理支持能降低50%复发风险
-
-链接：
-medicalxpress.com/news/2025-12-tapering-therapy-effective-strategy-antidepressants.html
-
----
-
 ### ② 微珠计算工具
 
 **Bead Counting Calculator（微珠计数计算器）**
@@ -370,63 +360,6 @@ www.healingamericanow.com/calculator.php
 
 链接：
 www.theinnercompass.org/taper/counting-beads-beaded-capsule
-
----
-
-### ④ SNRI减药专业技术
-
-**Psychopharmacology Institute - 双曲线减量技术**
-专业的SNRI类药物（度洛西丁属于此类）减药指南
-
-链接：
-psychopharmacologyinstitute.com/section/deprescribing-snris-hyperbolic-tapering-techniques/
-
----
-
-### ⑤ 度洛西丁减药手册
-
-**Cymbalta Withdrawal - 欣百达减药手册**
-专门针对度洛西丁（欣百达）的减药指南
-
-链接：
-cymbalta-withdrawal.com/cymbalta-tapering-handbook/
-
----
-
-### ⑥ 精密秤使用指南
-
-**Inner Compass Initiative - 精密秤使用方法**
-如何使用精密秤进行称量的详细教程
-
-链接：
-www.theinnercompass.org/taper/using-digital-scale-weighing-and-making-cuts
-
----
-
-### ⑦ 称量法详细指南
-
-**Tapering by Counting Beads - 微珠减量法**
-称量和数微珠的综合指南
-
-链接：
-healthwithoutantidepressants.com/tapering-by-counting-beads/
-
----
-
-### ⑧ 美国精神病学新闻
-
-**抗抑郁药戒断症状研究**
-关于戒断症状的专业医学分析
-
-链接：
-psychiatryonline.org/doi/full/10.1176/appi.pn.2025.09.9.1
-
----
-
-**💡 使用建议**：
-- 这些都是国外专业资源（英文）
-- 可以用浏览器自带的翻译功能
-- 或者在评论区提问，我帮你解答
 
 ---
 
