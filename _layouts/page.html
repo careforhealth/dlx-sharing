@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="article-page">
+  <div class="container narrow">
+    <nav class="crumbs"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><span class="current">{{ page.title }}</span></nav>
+    <header class="post-head">
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="post-desc">{{ page.description }}</p>{% endif %}
+    </header>
+    <div class="article-content">{{ content }}</div>
+    <div class="article-disclaimer">
+      <span class="w-icon">!</span>
+      <p><strong>温柔提醒：</strong>本站信息仅供参考，不构成医疗建议。任何用药调整必须在医生指导下进行。</p>
+    </div>
+  </div>
+</article>

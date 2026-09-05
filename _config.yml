@@ -1,0 +1,48 @@
+# Site settings
+title: "度洛西丁互助社区"
+tagline: "你不是一个人在战斗 · 科学减药 · 同伴支持"
+description: "由患者、家属、康复者共建的度洛西丁互助社区 — 15 篇系列指南：科学减药、症状应对与同伴支持"
+url: "https://careforhealth.github.io"
+baseurl: "/dlx-sharing"
+lang: zh-CN
+author: 度洛西丁互助社区
+repo: https://github.com/careforhealth/dlx-sharing
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: pretty
+
+# Plugins (GitHub Pages 白名单)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Defaults
+defaults:
+  - scope:
+      path: "dlx"
+    values:
+      layout: post
+
+# Navigation
+navigation:
+  - title: 首页
+    url: /
+  - title: 系列指南
+    url: /guide/
+  - title: 参与互助
+    url: /join/
+
+# Exclude from site build (保留在仓库，仅不发布)
+exclude:
+  - README.md
+  - HWA
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

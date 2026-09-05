@@ -1,4 +1,15 @@
-﻿# 💊 度洛西丁互助指南 08
+---
+layout: post
+title: 戒断症状科学应对策略
+series: 系列11b
+order: 13
+minutes: 15
+category: 症状应对
+description: 戒断症状完整清单、实用应对策略与减量调整信号。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/14
+permalink: /dlx/08-withdrawal-management-strategy/
+---
+# 💊 度洛西丁互助指南 08
 
 ## 戒断症状：科学应对策略
 

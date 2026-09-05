@@ -1,4 +1,15 @@
-﻿# 💊 度洛西丁使用者互助指南
+---
+layout: post
+title: 度洛西丁使用者互助指南：你不是一个人在战斗
+series: 系列01
+order: 1
+minutes: 5
+category: 入门必读
+description: 为什么这个社区存在，度洛西丁基础知识，以及下一步行动。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/2
+permalink: /dlx/01-why-to-start/
+---
+# 💊 度洛西丁使用者互助指南
 ## 你不是一个人在战斗
 ---
 

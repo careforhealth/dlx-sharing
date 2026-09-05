@@ -1,4 +1,15 @@
-﻿# 💊 度洛西丁互助指南 07
+---
+layout: post
+title: 戒断症状管理：科学应对策略
+series: 系列07
+order: 8
+minutes: 15
+category: 症状应对
+description: 减药全周期的管理方案、症状评估与调整策略、心理建设。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/9
+permalink: /dlx/07-withdrawal-management-strategy/
+---
+# 💊 度洛西丁互助指南 07
 
 ## 戒断症状管理：科学应对策略
 

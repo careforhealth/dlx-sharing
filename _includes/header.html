@@ -1,0 +1,24 @@
+<header class="site-header" id="siteHeader">
+  <div class="header-container">
+    <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="首页">
+      <span class="logo-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </span>
+      <span class="logo-text">度洛西丁互助社区<small>患者 · 家属 · 康复者共建</small></span>
+    </a>
+    <nav class="main-nav" aria-label="主导航">
+      <button class="nav-toggle" id="navToggle" aria-label="展开菜单" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-list" id="navList">
+        {% for item in site.navigation %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

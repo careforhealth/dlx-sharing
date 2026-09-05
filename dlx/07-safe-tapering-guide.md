@@ -1,4 +1,15 @@
-﻿# 安全减药指南：科学的度洛西汀减量方法
+---
+layout: post
+title: 安全减药指南：科学的减量方法
+series: 系列08
+order: 9
+minutes: 25
+category: 减量方法
+description: 药理学基础、5%双曲线递减法、三种减量方法与时间规划。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/10
+permalink: /dlx/07-safe-tapering-guide/
+---
+# 安全减药指南：科学的度洛西汀减量方法
 
 > 基于 HealthWithoutAntidepressants 社区 40,000+ 成员的实践经验和研究
 
@@ -352,7 +363,7 @@
 - 如何与医生沟通
 - 时间规划
 
-**👉 强烈建议继续阅读下篇**：[08-症状管理与FAQ](./08-symptom-management-faq.md)
+**👉 强烈建议继续阅读下篇**：[08-症状管理与应对]({% link dlx/08-symptom-management.md %})
 
 下篇内容包括：
 - 戒断症状详细解析（20+ 种症状）
@@ -365,11 +376,11 @@
 
 ## 本系列其他文章
 
-- [05-称重方法详解](./05-weighing-method.md) - 精密减量操作指南
-- [04-我们遇到的问题](./04-what-we-meet.md) - 减药过程中的常见挑战
-- [03-减药前你需要知道的](./03-before-you-start.md) - 减药前的准备工作
-- [02-健康追踪](./02-health-tracking.md) - 如何监测和记录健康状况
-- [01-为什么要开始](./01-why-to-start.md) - 减药的动机和思考
+- [称重方法详解]({% link dlx/11-weighing-method.md %}) - 精密减量操作指南
+- [我们遇到的问题]({% link dlx/04-what-we-meet.md %}) - 减药过程中的常见挑战
+- [减药前你需要知道的]({% link dlx/03-before-you-start.md %}) - 减药前的准备工作
+- [健康追踪]({% link dlx/02-health-tracking.md %}) - 如何监测和记录健康状况
+- [为什么要开始]({% link dlx/01-why-to-start.md %}) - 减药的动机和思考
 
 ## 免责声明
 

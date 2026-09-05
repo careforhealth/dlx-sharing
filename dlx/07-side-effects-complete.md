@@ -1,4 +1,15 @@
-﻿# 💊 度洛西丁互助指南 07
+---
+layout: post
+title: 副作用识别指南
+series: 系列11a
+order: 12
+minutes: 15
+category: 症状应对
+description: 病情 vs 副作用 vs 戒断反应的区分、完整清单与就医信号。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/13
+permalink: /dlx/07-side-effects-complete/
+---
+# 💊 度洛西丁互助指南 07
 ## 副作用识别指南：病情vs副作用vs戒断反应
 
 ---

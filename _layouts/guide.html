@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% assign posts = site.pages | where: "layout", "post" | sort: "order" %}
+<section class="cat-hero">
+  <div class="container">
+    <nav class="crumbs"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><span>{{ page.title }}</span></nav>
+    <div class="cat-hero-inner">
+      <span class="card-icon big color-pine-bg">{% include icon.html name='book' %}</span>
+      <div>
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.description }}</p>
+        <span class="count-pill">{{ posts | size }} 篇文章 · 建议按顺序阅读</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container narrow">
+    <div class="article-list">
+      {% for p in posts %}
+      <a class="article-row" href="{{ p.url | relative_url }}">
+        <span class="row-index">{{ p.series }}</span>
+        <span class="row-body">
+          <strong>{{ p.title }}</strong>
+          <span class="row-url">{{ p.category }} · 约 {{ p.minutes }} 分钟 · {{ p.description }}</span>
+        </span>
+        <span class="row-arrow">{% include icon.html name='arrow' %}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <div class="cat-nav">
+      <a href="{{ '/' | relative_url }}" class="btn ghost">← 返回首页</a>
+      <a href="{{ '/join/' | relative_url }}" class="btn primary">去讨论区参与互助</a>
+    </div>
+  </div>
+</section>

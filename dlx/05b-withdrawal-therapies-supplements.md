@@ -1,4 +1,15 @@
-﻿# 戒断症状应对方案：补充剂与非药物疗法
+---
+layout: post
+title: 戒断症状应对方案：补充剂与非药物疗法
+series: 系列05b
+order: 6
+minutes: 20
+category: 症状应对
+description: 常见症状应对、核心补充剂速查表与非药物疗法总览。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/7
+permalink: /dlx/05b-withdrawal-therapies-supplements/
+---
+# 戒断症状应对方案：补充剂与非药物疗法
 ⚠️ **重要声明**
 
 本文仅为科学知识分享，不构成医疗建议。任何补充剂和疗法应在医生知情下进行。

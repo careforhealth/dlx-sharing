@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+  {% assign first = true %}
+  {% assign posts = site.pages | where: "layout", "post" | sort: "order" %}
+  {% for doc in posts %}
+    {% unless first %},{% endunless %}
+    {
+      "title": {{ doc.title | jsonify }},
+      "category": {{ doc.series | default: "" | jsonify }},
+      "url": {{ doc.url | relative_url | jsonify }},
+      "excerpt": {{ doc.description | default: doc.content | strip_html | strip_newlines | truncate: 160 | jsonify }}
+    }
+    {% assign first = false %}
+  {% endfor %}
+]

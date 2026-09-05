@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% assign posts = site.pages | where: "layout", "post" | sort: "order" %}
+{% assign prev = nil %}{% assign next = nil %}{% assign found = false %}
+{% for p in posts %}
+  {% if found == false and p.url == page.url %}
+    {% assign found = true %}
+  {% elsif found == true and next == nil %}
+    {% assign next = p %}
+  {% endif %}
+  {% if found == false %}
+    {% assign prev = p %}
+  {% endif %}
+{% endfor %}
+<article class="article-page">
+  <div class="container narrow">
+    <nav class="crumbs">
+      <a href="{{ '/' | relative_url }}">首页</a><span>/</span>
+      <a href="{{ '/guide/' | relative_url }}">系列指南</a><span>/</span>
+      <span class="current">{{ page.series }}</span>
+    </nav>
+
+    <header class="post-head">
+      <div class="post-badges">
+        {% if page.series %}<span class="category-badge">{{ page.series }}</span>{% endif %}
+        {% if page.category %}<span class="category-badge soft">{{ page.category }}</span>{% endif %}
+        {% if page.minutes %}<span class="minutes">约 {{ page.minutes }} 分钟</span>{% endif %}
+      </div>
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="post-desc">{{ page.description }}</p>{% endif %}
+      {% if page.discussion %}
+      <a class="btn discuss-btn" href="{{ page.discussion }}" target="_blank" rel="noopener">{% include icon.html name='chat' %} 去本文讨论区留言</a>
+      {% endif %}
+    </header>
+
+    <div class="article-content" id="articleContent">
+      {{ content }}
+    </div>
+
+    <div class="article-disclaimer">
+      <span class="w-icon">!</span>
+      <p><strong>温柔提醒：</strong>本文仅供信息交流，不构成医疗建议。任何用药调整必须在医生指导下进行，遇到严重副作用请立即就医。</p>
+    </div>
+
+    <nav class="post-pager">
+      {% if prev %}
+      <a class="pager prev" href="{{ prev.url | relative_url }}"><small>← 上一篇 · {{ prev.series }}</small><strong>{{ prev.title }}</strong></a>
+      {% else %}
+      <span></span>
+      {% endif %}
+      {% if next %}
+      <a class="pager next" href="{{ next.url | relative_url }}"><small>下一篇 · {{ next.series }} →</small><strong>{{ next.title }}</strong></a>
+      {% endif %}
+    </nav>
+  </div>
+</article>
+<button class="back-top" id="backTop" aria-label="回到顶部">↑</button>

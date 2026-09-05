@@ -1,4 +1,15 @@
-﻿# 称量减量法：科学停药的精确方案
+---
+layout: post
+title: 称量减量法指南
+series: 系列11d
+order: 15
+minutes: 15
+category: 减量方法
+description: 精密称重操作方法、工具清单、低剂量时的应对策略。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/16
+permalink: /dlx/11-weighing-method/
+---
+# 称量减量法：科学停药的精确方案
 
 ---
 
@@ -29,7 +40,7 @@
 
 ## 🛠️ 你需要准备这些
 
-<img src="images/05-全套.jpg" alt="全套工具展示" width="500">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-全套.jpg" alt="全套工具展示" width="500">
 
 ### 必备工具清单
 
@@ -39,7 +50,7 @@
 - **价格参考**：50-150元
 - **注意**：必须有校准功能
 
-<img src="images/05-珠宝称.jpg" alt="精密珠宝秤" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-珠宝称.jpg" alt="精密珠宝秤" width="400">
 
 > 💡 **推荐款**：图片中这款更加稳定，之前买的容易受风吹、静电、水平影响导致读数不准确，这款重复称数据一般不变。不过精度略差一点，可能在 0.003g 上下浮动，基本可用。
 
@@ -50,8 +61,8 @@
   - 目前已知欣百达、欧欣妥、奥思平胶囊版、智腾均为肠溶包衣微珠，可直接采用本方案
   - 其他仿制药在使用前，建议查询药品说明书或咨询医药公司确认微珠类型
 
-<img src="images/05-胶囊.jpg" alt="空胶囊" width="400">
-<img src="images/05-0号胶囊.jpg" alt="0号空胶囊" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-胶囊.jpg" alt="空胶囊" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-0号胶囊.jpg" alt="0号空胶囊" width="400">
 
 #### 📋 辅助工具
 - **干净容器**（多备几个，装打开的颗粒以及药丸）
@@ -88,8 +99,8 @@
 #### 3️⃣ 使用分药器
 **神器推荐**！一次可以放置多颗（我用的是两颗装），称量好后倒入胶囊更容易，不会到处乱弹。
 
-<img src="images/05-装药器.jpg" alt="分药器展示" width="400">
-<img src="images/05-分药器2.jpg" alt="分药器2" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-装药器.jpg" alt="分药器展示" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-分药器2.jpg" alt="分药器2" width="400">
 
 **使用技巧**：将药壳装入分药器，把称量好的微珠慢慢导进去，操作更顺畅。
 
@@ -158,7 +169,7 @@
 
 5. 达到目标重量
 
-<img src="images/05-开药壳.jpg" alt="开药壳方法" width="400">
+<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/dlx/images/05-开药壳.jpg" alt="开药壳方法" width="400">
 
 💡 **精度技巧**：
 - 可以多次拿起托盘，摇匀后再称，确认重量

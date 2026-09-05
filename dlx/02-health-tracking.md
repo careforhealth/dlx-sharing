@@ -1,4 +1,15 @@
-﻿# 用药必备！这张表帮我追踪90天，终于看清真相了
+---
+layout: post
+title: 90天症状追踪表：数据让你看清真相
+series: 系列02
+order: 2
+minutes: 10
+category: 工具资源
+description: 如何记录用药体验、发现症状规律，为医患沟通提供证据。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/3
+permalink: /dlx/02-health-tracking/
+---
+# 用药必备！这张表帮我追踪90天，终于看清真相了
 
 📊 **度洛西丁互助指南 · 系列02**
 ---

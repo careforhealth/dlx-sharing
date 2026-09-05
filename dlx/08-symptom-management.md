@@ -1,8 +1,19 @@
-﻿# 安全减药指南：症状管理与应对（中篇）
+---
+layout: post
+title: 安全减药指南：症状管理与应对
+series: 系列09
+order: 10
+minutes: 20
+category: 症状应对
+description: 戒断症状全面解析、管理策略、减量日志模板与个体化方案。
+discussion: https://github.com/careforhealth/dlx-sharing/discussions/11
+permalink: /dlx/08-symptom-management/
+---
+# 安全减药指南：症状管理与应对（中篇）
 
 > 配合上篇食用效果更佳 | 基于 40,000+ 患者社区的实践经验
 
-**阅读提示**：本文是《安全减药指南》的中篇，侧重于症状识别和处理。如果还没阅读上篇，强烈建议先阅读 [07-安全减量指南](./07-safe-tapering-guide.md) 了解基本原理和操作方法。
+**阅读提示**：本文是《安全减药指南》的中篇，侧重于症状识别和处理。如果还没阅读上篇，强烈建议先阅读 [安全减量指南]({% link dlx/07-safe-tapering-guide.md %}) 了解基本原理和操作方法。
 ---
 
 ## 目录
@@ -496,7 +507,7 @@
 
 ## 下一步阅读
 
-**👉 继续阅读下篇**：[09-常见问题与资源](./09-faq-resources.md)
+**👉 继续阅读下篇**：[09-常见问题与资源]({% link dlx/09-faq-resources.md %})
 
 下篇内容包括：
 - 20 个常见问题详细解答
@@ -507,12 +518,12 @@
 
 ## 本系列其他文章
 
-- [07-安全减量指南](./07-safe-tapering-guide.md) - 基本原理和操作方法
-- [05-称重方法详解](./05-weighing-method.md) - 精密减量操作指南
-- [04-我们遇到的问题](./04-what-we-meet.md) - 减药过程中的常见挑战
-- [03-减药前你需要知道的](./03-before-you-start.md) - 减药前的准备工作
-- [02-健康追踪](./02-health-tracking.md) - 如何监测和记录健康状况
-- [01-为什么要开始](./01-why-to-start.md) - 减药的动机和思考
+- [安全减量指南]({% link dlx/07-safe-tapering-guide.md %}) - 基本原理和操作方法
+- [称重方法详解]({% link dlx/11-weighing-method.md %}) - 精密减量操作指南
+- [我们遇到的问题]({% link dlx/04-what-we-meet.md %}) - 减药过程中的常见挑战
+- [减药前你需要知道的]({% link dlx/03-before-you-start.md %}) - 减药前的准备工作
+- [健康追踪]({% link dlx/02-health-tracking.md %}) - 如何监测和记录健康状况
+- [为什么要开始]({% link dlx/01-why-to-start.md %}) - 减药的动机和思考
 
 ## 免责声明
 
