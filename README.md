@@ -2,6 +2,9 @@
 
 **如果你正在吃度洛西汀（欣百达）、被副作用困扰、想减药，或觉得没人懂你——欢迎你，来这里歇一歇。**
 
+> 🌐 **手机看排版更好：[careforhealth.github.io/dlx-sharing](https://careforhealth.github.io/dlx-sharing/)**
+> 系列指南、参与互助都在网站里，手机读更舒服。
+
 > ⚠️ **先说最重要的事：这里的信息是病友经验分享，不是医疗建议。**
 > 任何减药、停药、换药，一定要在医生指导下进行。不要突然停药。出现严重不适请立即就医。
 
@@ -92,6 +95,10 @@
 - [02 90天症状追踪表](dlx/02-health-tracking.md) | [💬讨论3](https://github.com/careforhealth/dlx-sharing/discussions/3)
 
 </details>
+
+> 🌍 **想看国外病友的经验？**
+> [健康无抗抑郁药 · 中文翻译站](https://careforhealth.github.io/Cym-Hurts-Worse/) — 国外 "Cymbalta Hurts Worse" 社区等英文资料的中文翻译（共37篇）。
+> 先看这篇：[社区经验：错误减量、突然停药与成功故事](https://careforhealth.github.io/Cym-Hurts-Worse/%E7%A4%BE%E5%8C%BA%E7%BB%8F%E9%AA%8C/)。
 
 ---
 
