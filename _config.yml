@@ -40,7 +40,7 @@ navigation:
 # Waline 评论（https://waline.js.org）
 # 后端部署好后，把 server_url 换成你的 Vercel 地址即生效
 waline:
-  server_url: https://REPLACE-WITH-YOUR-WALINE.vercel.app
+  server_url: https://chwdiscuss.vercel.app
 
 # Exclude from site build (保留在仓库，仅不发布)
 exclude:
