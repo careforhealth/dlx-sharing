@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 为什么戒掉度洛西丁如此困难
-series: 系列04
+series: B1
 order: 4
 minutes: 15
-category: 入门必读
+category: 减量方法
 description: 戒断反应的科学解释、真实失败案例、双曲线递减法与成功关键。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/5
 giscus_number: 5
 permalink: /dlx/04-what-we-meet/
 ---
 # ⚠️ 度洛西丁：为什么想要戒掉如此困难？
-📊 **度洛西丁互助指南 · 系列04**
+📊 **度洛西丁互助指南 · B1**
 ---
 
 ## ⚠️ 重要声明

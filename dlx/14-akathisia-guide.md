@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 静坐不能应对指南
-series: 系列11c
+series: C6
 order: 14
 minutes: 15
 category: 症状应对

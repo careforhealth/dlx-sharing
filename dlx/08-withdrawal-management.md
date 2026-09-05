@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 戒断症状管理：科学应对策略
-series: 系列07
+series: C3
 order: 8
 minutes: 15
 category: 症状应对

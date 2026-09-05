@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安全减药指南：症状管理与应对
-series: 系列09
+series: C4
 order: 10
 minutes: 20
 category: 症状应对

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 副作用识别指南
-series: 系列11a
+series: A3
 order: 12
 minutes: 15
-category: 症状应对
+category: 认识药物
 description: 病情 vs 副作用 vs 戒断反应的区分、完整清单与就医信号。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/13
 giscus_number: 13

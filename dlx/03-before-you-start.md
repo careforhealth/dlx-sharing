@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 开始前必须知道的真相
-series: 系列03
+series: A2
 order: 3
 minutes: 10
-category: 入门必读
+category: 认识药物
 description: 停药为什么困难、戒断症状、是否需要这个药、可先尝试的替代方案。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/4
 giscus_number: 4
 permalink: /dlx/03-before-you-start/
 ---
 # ⚠️ 度洛西丁：开始前你必须知道的真相
-📊 **度洛西丁互助指南 · 系列03**
+📊 **度洛西丁互助指南 · A2**
 ---
 
 ### 📌 这篇写给谁

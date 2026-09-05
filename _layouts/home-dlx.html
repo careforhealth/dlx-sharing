@@ -45,12 +45,16 @@ layout: default
 <section class="section journey-section">
   <div class="container">
     <div class="section-head">
-      <span class="eyebrow">新成员必看 · 快速入门路线</span>
-      <h2>跟着 11 步走，从了解到了解透</h2>
-      <p>按顺序读完，你会对减药有完整认知。每篇文末都有讨论区，欢迎留言。</p>
+      <span class="eyebrow">新成员必看 · 先看这 3 篇</span>
+      <h2>脑雾时看不进长文，先看这三篇</h2>
+      <p>了解 → 避坑 → 方法，有力气了再按下面的分组慢慢看。每篇文末都有讨论区，欢迎留言。</p>
     </div>
     <ol class="path-timeline">
-      {% for p in posts %}
+      {% assign starter_orders = "3,7,9" | split: "," %}
+      {% for o in starter_orders %}
+        {% assign num = o | plus: 0 %}
+        {% for p in posts %}
+          {% if p.order == num %}
       <li class="path-item">
         <a class="path-card" href="{{ p.url | relative_url }}">
           <span class="path-no">{{ p.series }}</span>
@@ -61,9 +65,40 @@ layout: default
           <span class="path-meta">{{ p.minutes }} 分钟 {% include icon.html name='arrow' %}</span>
         </a>
       </li>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
     </ol>
-    <div class="center"><a class="btn primary" href="{{ '/guide/' | relative_url }}">查看完整目录 {% include icon.html name='arrow' %}</a></div>
+  </div>
+</section>
+
+<!-- GROUPS -->
+<section class="section groups-section">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">4 大主题 · 共 15 篇</span>
+      <h2>不用全看完，先看属于你的那一组</h2>
+      <p>按主题分组，想减药看 B 组，难受时去 C 组翻办法。</p>
+    </div>
+    <div class="groups-grid">
+      {% for meta in site.groups_meta %}
+      {% assign cat_pages = posts | where: "category", meta.name | sort: "order" %}
+      <article class="group-card" id="home-{{ meta.key }}">
+        <div class="group-top">
+          <span class="card-icon">{% include icon.html name=meta.icon %}</span>
+          <span class="card-count">{{ cat_pages | size }} 篇</span>
+        </div>
+        <h3><span class="group-key">{{ meta.key }}组</span> · {{ meta.title }}</h3>
+        <p class="group-desc">{{ meta.desc }}</p>
+        <ul class="group-articles">
+          {% for p in cat_pages %}
+          <li><a href="{{ p.url | relative_url }}"><span class="group-code">{{ p.series }}</span>{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <a class="card-more" href="{{ '/guide/' | relative_url }}#g-{{ meta.key }}">去{{ meta.name }}组看看 {% include icon.html name='arrow' %}</a>
+      </article>
+      {% endfor %}
+    </div>
   </div>
 </section>
 

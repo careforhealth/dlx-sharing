@@ -28,6 +28,29 @@ defaults:
     values:
       layout: post
 
+# 系列指南分组（首页与目录页按此展示，文章顺序仍由各篇 order 决定）
+groups_meta:
+  - key: A
+    name: 认识药物
+    title: 认识药物 · 做决定
+    icon: compass
+    desc: 先搞懂这个药、可能的反应，再决定要不要减、怎么和医生谈。
+  - key: B
+    name: 减量方法
+    title: 科学减量方法
+    icon: chart
+    desc: 为什么这么难戒、哪些坑要避，双曲线递减法具体怎么做。
+  - key: C
+    name: 症状应对
+    title: 难受时怎么应对
+    icon: heart
+    desc: 营养、补充剂、全周期管理与特殊反应，难受时来这里找办法。
+  - key: D
+    name: 工具问答
+    title: 工具与问答
+    icon: book
+    desc: 90天记录表帮你看清真相，20个高频问题解答常见疑惑。
+
 # Navigation
 navigation:
   - title: 首页

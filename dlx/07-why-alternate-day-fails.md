@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 度洛西丁为什么隔天吃不行
-series: 系列06
+series: B2
 order: 7
 minutes: 10
 category: 减量方法

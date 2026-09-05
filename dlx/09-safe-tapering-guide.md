@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安全减药指南：科学的减量方法
-series: 系列08
+series: B3
 order: 9
 minutes: 25
 category: 减量方法

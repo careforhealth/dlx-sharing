@@ -30,25 +30,25 @@
 
 ### A. 😷 我还在吃药，感觉不舒服 / 想了解这个药
 
-1. [系列01 💊 度洛西汀使用者互助指南](dlx/01-why-to-start.md) — 这个药的基础知识，你不是一个人在战斗
-2. [系列11a 📋 副作用识别指南](dlx/07-side-effects-complete.md) — 是病情、副作用，还是戒断反应？附需要立即就医的信号
-3. [系列02 📊 90天症状追踪表](dlx/02-health-tracking.md) — 帮你和医生说清楚到底怎么了
+1. [A1 💊 度洛西汀使用者互助指南](dlx/01-why-to-start.md) — 这个药的基础知识，你不是一个人在战斗
+2. [A3 📋 副作用识别指南](dlx/12-side-effects-complete.md) — 是病情、副作用，还是戒断反应？附需要立即就医的信号
+3. [D1 📊 90天症状追踪表](dlx/02-health-tracking.md) — 帮你和医生说清楚到底怎么了
 
 ### B. 💔 我想减药 / 正在减，好难受
 
-1. [系列03 ⚠️ 开始前必须知道的5个真相](dlx/03-before-you-start.md) — 停药为什么这么难？要不要停？有没有替代方案？
-2. [系列04 💔 为什么戒掉这么难](dlx/04-what-we-meet.md) — 科学解释 + 为什么不能“减半”“隔天吃”
-3. [系列08 🔬 安全减药指南：减量原理与操作](dlx/07-safe-tapering-guide.md) — 双曲线递减法、5%原则、三种操作方法
+1. [A2 ⚠️ 开始前必须知道的真相](dlx/03-before-you-start.md) — 停药为什么这么难？要不要停？有没有替代方案？
+2. [B1 💔 为什么戒掉这么难](dlx/04-what-we-meet.md) — 科学解释 + 为什么不能“减半”“隔天吃”
+3. [B3 🔬 安全减药指南：减量原理与操作](dlx/09-safe-tapering-guide.md) — 双曲线递减法、5%原则、三种操作方法
 
 👉 减药中很难受？直接看：
 
-- [系列05b 💊 戒断症状应对方案](dlx/05b-withdrawal-therapies-supplements.md) — 焦虑、脑电击感、失眠、便秘怎么办
-- [系列05a 🍎 营养管理指南](dlx/05a-withdrawal-nutrition-management.md) — 稳定血糖能缓解很多不适
+- [C2 💊 戒断症状应对方案](dlx/06-withdrawal-therapies-supplements.md) — 焦虑、脑电击感、失眠、便秘怎么办
+- [C1 🍎 营养管理指南](dlx/05-withdrawal-nutrition-management.md) — 稳定血糖能缓解很多不适
 
 ### C. 🧡 我是家属 / 朋友 / 已经康复，想帮忙
 
-1. [系列01 💊 使用者互助指南](dlx/01-why-to-start.md) — 先理解他在经历什么
-2. [系列07 🎯 戒断症状管理：整体策略](dlx/07-withdrawal-management-strategy.md) — 全周期怎么陪，怎么不帮倒忙
+1. [A1 💊 使用者互助指南](dlx/01-why-to-start.md) — 先理解他在经历什么
+2. [C3 🎯 戒断症状管理：整体策略](dlx/08-withdrawal-management.md) — 全周期怎么陪，怎么不帮倒忙
 3. 欢迎去[讨论区](https://github.com/careforhealth/dlx-sharing/discussions)分享你的陪伴经验
 
 ---
@@ -57,42 +57,42 @@
 
 脑雾、焦虑的时候看不进长文。先看这3篇，其他的等你有力气再看：
 
-1. **了解** — [03 开始前必须知道的真相](dlx/03-before-you-start.md)（10分钟）
-2. **避坑** — [06 为什么隔天吃不行？](dlx/06-why-alternate-day-fails.md)（10分钟）
-3. **方法** — [08 安全减药指南](dlx/07-safe-tapering-guide.md)（25分钟，可分几次看）
+1. **了解** — [A2 开始前必须知道的真相](dlx/03-before-you-start.md)（10分钟）
+2. **避坑** — [B2 为什么隔天吃不行？](dlx/07-why-alternate-day-fails.md)（10分钟）
+3. **方法** — [B3 安全减药指南](dlx/09-safe-tapering-guide.md)（25分钟，可分几次看）
 
 > 📊 **一个真相让你安心：** 社区167人投票里，46.7%经历过中度到极度的戒断不适，只有24%“基本没感觉”。
 > 这不是你意志力差，是这个药半衰期只有12小时，确实很难停。需要慢（每次≤5%）、需要时间（常需12-24个月）、需要陪伴。这正是我们写这些指南的原因。
 
 <details>
-<summary>📚 想系统看？点开完整指南地图（共15篇，按主题分）</summary>
+<summary>📚 想系统看？点开完整指南地图（共15篇，分4组）</summary>
 
-**一、认识药物、做决定**
+**A组 · 认识药物、做决定**
 
-- [01 使用者互助指南](dlx/01-why-to-start.md) | [💬讨论2](https://github.com/careforhealth/dlx-sharing/discussions/2)
-- [03 开始前必须知道的真相](dlx/03-before-you-start.md) | [💬讨论4](https://github.com/careforhealth/dlx-sharing/discussions/4)
-- [11a 副作用识别指南](dlx/07-side-effects-complete.md) | [💬讨论13](https://github.com/careforhealth/dlx-sharing/discussions/13)
-- [10 20个高频问题解答](dlx/09-faq-resources.md) | [💬讨论12](https://github.com/careforhealth/dlx-sharing/discussions/12)
+- [A1 使用者互助指南](dlx/01-why-to-start.md) | [💬讨论2](https://github.com/careforhealth/dlx-sharing/discussions/2)
+- [A2 开始前必须知道的真相](dlx/03-before-you-start.md) | [💬讨论4](https://github.com/careforhealth/dlx-sharing/discussions/4)
+- [A3 副作用识别指南](dlx/12-side-effects-complete.md) | [💬讨论13](https://github.com/careforhealth/dlx-sharing/discussions/13)
 
-**二、科学减药方法（核心）**
+**B组 · 科学减量方法**
 
-- [04 为什么戒掉这么难](dlx/04-what-we-meet.md) | [💬讨论5](https://github.com/careforhealth/dlx-sharing/discussions/5)
-- [06 为什么隔天吃不行](dlx/06-why-alternate-day-fails.md) | [💬讨论8](https://github.com/careforhealth/dlx-sharing/discussions/8)
-- [08 安全减药：减量原理与操作](dlx/07-safe-tapering-guide.md) | [💬讨论10](https://github.com/careforhealth/dlx-sharing/discussions/10)
-- [11d 称量减量法指南](dlx/11-weighing-method.md) | [💬讨论16](https://github.com/careforhealth/dlx-sharing/discussions/16)
+- [B1 为什么戒掉这么难](dlx/04-what-we-meet.md) | [💬讨论5](https://github.com/careforhealth/dlx-sharing/discussions/5)
+- [B2 为什么隔天吃不行](dlx/07-why-alternate-day-fails.md) | [💬讨论8](https://github.com/careforhealth/dlx-sharing/discussions/8)
+- [B3 安全减药：减量原理与操作](dlx/09-safe-tapering-guide.md) | [💬讨论10](https://github.com/careforhealth/dlx-sharing/discussions/10)
+- [B4 称量减量法指南](dlx/15-weighing-method.md) | [💬讨论16](https://github.com/careforhealth/dlx-sharing/discussions/16)
 
-**三、难受时怎么应对**
+**C组 · 难受时怎么应对**
 
-- [05a 营养管理指南](dlx/05a-withdrawal-nutrition-management.md) | [💬讨论6](https://github.com/careforhealth/dlx-sharing/discussions/6)
-- [05b 应对方案：补充剂与非药物疗法](dlx/05b-withdrawal-therapies-supplements.md) | [💬讨论7](https://github.com/careforhealth/dlx-sharing/discussions/7)
-- [07 戒断症状管理策略](dlx/07-withdrawal-management-strategy.md) | [💬讨论9](https://github.com/careforhealth/dlx-sharing/discussions/9)
-- [09 症状管理与应对](dlx/08-symptom-management.md) | [💬讨论11](https://github.com/careforhealth/dlx-sharing/discussions/11)
-- [11b 戒断症状科学应对策略](dlx/08-withdrawal-management-strategy.md) | [💬讨论14](https://github.com/careforhealth/dlx-sharing/discussions/14)
-- [11c 静坐不能应对指南](dlx/10-akathisia-guide.md) | [💬讨论15](https://github.com/careforhealth/dlx-sharing/discussions/15)
+- [C1 营养管理指南](dlx/05-withdrawal-nutrition-management.md) | [💬讨论6](https://github.com/careforhealth/dlx-sharing/discussions/6)
+- [C2 应对方案：补充剂与非药物疗法](dlx/06-withdrawal-therapies-supplements.md) | [💬讨论7](https://github.com/careforhealth/dlx-sharing/discussions/7)
+- [C3 戒断症状管理策略](dlx/08-withdrawal-management.md) | [💬讨论9](https://github.com/careforhealth/dlx-sharing/discussions/9)
+- [C4 症状管理与应对](dlx/10-symptom-management.md) | [💬讨论11](https://github.com/careforhealth/dlx-sharing/discussions/11)
+- [C5 戒断症状科学应对策略](dlx/13-withdrawal-coping-strategy.md) | [💬讨论14](https://github.com/careforhealth/dlx-sharing/discussions/14)
+- [C6 静坐不能应对指南](dlx/14-akathisia-guide.md) | [💬讨论15](https://github.com/careforhealth/dlx-sharing/discussions/15)
 
-**四、工具**
+**D组 · 工具与问答**
 
-- [02 90天症状追踪表](dlx/02-health-tracking.md) | [💬讨论3](https://github.com/careforhealth/dlx-sharing/discussions/3)
+- [D1 90天症状追踪表](dlx/02-health-tracking.md) | [💬讨论3](https://github.com/careforhealth/dlx-sharing/discussions/3)
+- [D2 20个高频问题解答](dlx/11-faq-resources.md) | [💬讨论12](https://github.com/careforhealth/dlx-sharing/discussions/12)
 
 </details>
 

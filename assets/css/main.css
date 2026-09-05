@@ -177,6 +177,24 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .row-arrow svg{width:100%;height:100%}
 .cat-nav{display:flex;gap:12px;flex-wrap:wrap}
 
+/* ---------- Groups（首页四组卡片 + 目录页分组） ---------- */
+.groups-section{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.groups-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+.group-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow);scroll-margin-top:80px}
+.group-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.card-count{font-size:.76rem;font-weight:700;color:var(--clay-deep);background:var(--clay-soft);padding:4px 12px;border-radius:99px}
+.group-card h3{font-family:var(--serif);font-size:1.1rem;font-weight:900;margin-bottom:6px}
+.group-key{display:inline-block;background:var(--pine);color:#fff;font-size:.75rem;padding:2px 10px;border-radius:99px;vertical-align:2px}
+.group-desc{font-size:.85rem;color:var(--muted);margin-bottom:12px}
+.group-articles{list-style:none;display:grid;gap:8px;margin-bottom:14px}
+.group-articles a{display:flex;gap:8px;align-items:baseline;font-size:.88rem;color:var(--ink);padding:8px 12px;border-radius:10px;background:var(--cream);border:1px solid transparent}
+.group-articles a:hover{border-color:var(--pine);color:var(--pine)}
+.group-code{font-family:var(--serif);font-size:.72rem;font-weight:700;color:#fff;background:var(--clay-deep);padding:1px 8px;border-radius:99px;white-space:nowrap}
+.card-more{display:inline-flex;align-items:center;gap:6px;font-size:.85rem;font-weight:700;color:var(--pine)}
+.card-more svg{width:15px;height:15px}
+.guide-group-title{font-family:var(--serif);font-size:1.25rem;font-weight:900;margin:36px 0 4px;scroll-margin-top:80px}
+.guide-group-desc{font-size:.86rem;color:var(--muted);margin-bottom:4px}
+
 /* ---------- Article ---------- */
 .article-page{padding:36px 0 64px}
 .post-head{margin:18px 0 28px}
@@ -260,6 +278,7 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 /* ---------- Responsive ---------- */
 @media(max-width:960px){
   .truth-grid{grid-template-columns:repeat(2,1fr)}
+  .groups-grid{grid-template-columns:1fr}
   .keys{grid-template-columns:1fr}
   .about-grid{grid-template-columns:1fr}
   .post-pager{grid-template-columns:1fr}

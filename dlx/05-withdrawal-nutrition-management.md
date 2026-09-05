@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 戒断症状营养管理指南
-series: 系列05a
+series: C1
 order: 5
 minutes: 20
 category: 症状应对

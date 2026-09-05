@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 戒断症状应对方案：补充剂与非药物疗法
-series: 系列05b
+series: C2
 order: 6
 minutes: 20
 category: 症状应对

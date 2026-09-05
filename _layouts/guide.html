@@ -10,7 +10,7 @@ layout: default
       <div>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
-        <span class="count-pill">{{ posts | size }} 篇文章 · 建议按顺序阅读</span>
+        <span class="count-pill">{{ posts | size }} 篇文章 · 按分组浏览</span>
       </div>
     </div>
   </div>
@@ -18,18 +18,23 @@ layout: default
 
 <section class="section">
   <div class="container narrow">
+    {% for meta in site.groups_meta %}
+    {% assign cat_pages = posts | where: "category", meta.name | sort: "order" %}
+    <h2 class="guide-group-title" id="g-{{ meta.key }}"><span class="group-key">{{ meta.key }}组</span> · {{ meta.title }}（{{ cat_pages | size }} 篇）</h2>
+    <p class="guide-group-desc">{{ meta.desc }}</p>
     <div class="article-list">
-      {% for p in posts %}
+      {% for p in cat_pages %}
       <a class="article-row" href="{{ p.url | relative_url }}">
         <span class="row-index">{{ p.series }}</span>
         <span class="row-body">
           <strong>{{ p.title }}</strong>
-          <span class="row-url">{{ p.category }} · 约 {{ p.minutes }} 分钟 · {{ p.description }}</span>
+          <span class="row-url">约 {{ p.minutes }} 分钟 · {{ p.description }}</span>
         </span>
         <span class="row-arrow">{% include icon.html name='arrow' %}</span>
       </a>
       {% endfor %}
     </div>
+    {% endfor %}
     <div class="cat-nav">
       <a href="{{ '/' | relative_url }}" class="btn ghost">← 返回首页</a>
       <a href="{{ '/join/' | relative_url }}" class="btn primary">去讨论区参与互助</a>

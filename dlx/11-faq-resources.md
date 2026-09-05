@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 20个高频问题全解答
-series: 系列10
+series: D2
 order: 11
 minutes: 15
-category: 工具资源
+category: 工具问答
 description: 减量原则、时间安排、戒断症状、生活支持与科学依据。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/12
 giscus_number: 12
