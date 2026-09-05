@@ -7,6 +7,7 @@ minutes: 25
 category: 减量方法
 description: 药理学基础、5%双曲线递减法、三种减量方法与时间规划。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/10
+giscus_number: 10
 permalink: /dlx/07-safe-tapering-guide/
 ---
 # 安全减药指南：科学的度洛西汀减量方法

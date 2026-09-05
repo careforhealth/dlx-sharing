@@ -7,6 +7,7 @@ minutes: 15
 category: 入门必读
 description: 戒断反应的科学解释、真实失败案例、双曲线递减法与成功关键。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/5
+giscus_number: 5
 permalink: /dlx/04-what-we-meet/
 ---
 # ⚠️ 度洛西丁：为什么想要戒掉如此困难？

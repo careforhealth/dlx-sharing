@@ -7,6 +7,7 @@ minutes: 20
 category: 症状应对
 description: 戒断症状全面解析、管理策略、减量日志模板与个体化方案。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/11
+giscus_number: 11
 permalink: /dlx/08-symptom-management/
 ---
 # 安全减药指南：症状管理与应对（中篇）

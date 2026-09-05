@@ -7,6 +7,7 @@ minutes: 15
 category: 症状应对
 description: 减药全周期的管理方案、症状评估与调整策略、心理建设。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/9
+giscus_number: 9
 permalink: /dlx/07-withdrawal-management-strategy/
 ---
 # 💊 度洛西丁互助指南 07

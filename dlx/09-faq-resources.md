@@ -7,6 +7,7 @@ minutes: 15
 category: 工具资源
 description: 减量原则、时间安排、戒断症状、生活支持与科学依据。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/12
+giscus_number: 12
 permalink: /dlx/09-faq-resources/
 ---
 # 💊 度洛西丁互助指南 09

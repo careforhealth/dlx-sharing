@@ -53,6 +53,29 @@ layout: default
       <a class="pager next" href="{{ next.url | relative_url }}"><small>下一篇 · {{ next.series }} →</small><strong>{{ next.title }}</strong></a>
       {% endif %}
     </nav>
+
+    {% if page.giscus_number %}
+    <section class="comments" id="comments">
+      <h2>讨论区留言</h2>
+      <p class="comments-desc">在这里留言会同步到 GitHub Discussions 对应帖子（需登录 GitHub，可匿名语气发言但账号可见）。理性交流，互相尊重。</p>
+      <script src="https://giscus.app/client.js"
+        data-repo="careforhealth/dlx-sharing"
+        data-repo-id="R_kgDOQ3gaAA"
+        data-category="General"
+        data-category-id="DIC_kwDOQ3gaAM4C0z6b"
+        data-mapping="number"
+        data-term="{{ page.giscus_number }}"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </section>
+    {% endif %}
   </div>
 </article>
 <button class="back-top" id="backTop" aria-label="回到顶部">↑</button>

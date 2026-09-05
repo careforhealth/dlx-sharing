@@ -7,6 +7,7 @@ minutes: 15
 category: 症状应对
 description: 被忽视的药物反应：症状表现、与焦虑的区分、与医生沟通。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/15
+giscus_number: 15
 permalink: /dlx/10-akathisia-guide/
 ---
 # 💊 度洛西丁互助指南 10

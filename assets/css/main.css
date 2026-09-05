@@ -239,6 +239,12 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.14);padding-top:20px;text-align:center;font-size:.78rem;color:#9A917F}
 .footer-bottom a{color:#CFC6B4;text-decoration:underline}
 
+/* ---------- Comments (Giscus) ---------- */
+.comments{margin-top:44px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:clamp(22px,4vw,36px);box-shadow:var(--shadow)}
+.comments h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:8px}
+.comments-desc{font-size:.84rem;color:var(--muted);margin-bottom:18px}
+.comments .giscus{max-width:100%}
+
 /* ---------- Responsive ---------- */
 @media(max-width:960px){
   .truth-grid{grid-template-columns:repeat(2,1fr)}

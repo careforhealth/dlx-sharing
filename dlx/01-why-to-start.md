@@ -7,6 +7,7 @@ minutes: 5
 category: 入门必读
 description: 为什么这个社区存在，度洛西丁基础知识，以及下一步行动。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/2
+giscus_number: 2
 permalink: /dlx/01-why-to-start/
 ---
 # 💊 度洛西丁使用者互助指南

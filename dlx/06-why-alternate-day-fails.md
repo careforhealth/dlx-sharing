@@ -7,6 +7,7 @@ minutes: 10
 category: 减量方法
 description: 药代动力学基础、隔天服用的失败原因与科学递减法对比。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/8
+giscus_number: 8
 permalink: /dlx/06-why-alternate-day-fails/
 ---
 # 💊 度洛西丁互助指南 06
