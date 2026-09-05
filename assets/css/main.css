@@ -246,6 +246,19 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .comments .giscus{max-width:100%}
 #waline{--waline-theme-color:#1E4D3F;--waline-active-color:#B85A28;--waline-font-size:15px;--waline-border-radius:12px;text-align:left}
 
+/* ---------- Support（病友互助 + 咖啡，与 Cym-Hurts-Worse 同款） ---------- */
+.support-section{margin:0 16px 64px}
+.support-card{max-width:720px;margin:0 auto;text-align:center;background:var(--paper);border:1px solid var(--line);border-radius:28px;padding:48px 32px;box-shadow:var(--shadow)}
+.support-card h2{font-family:var(--serif);font-weight:900;font-size:clamp(1.4rem,3vw,1.9rem);margin-bottom:12px}
+.support-card p{color:var(--muted);font-size:.93rem;max-width:560px;margin:0 auto}
+.support-card .support-note{margin-top:8px;color:var(--ink);font-weight:600}
+.support-card img{width:160px;margin:22px auto 10px;display:block;border:1px solid var(--line)}
+.support-card .group-qr{width:210px;border-radius:12px}
+.support-divider{border:none;border-top:1px solid var(--line);margin:34px auto;max-width:480px}
+.support-card .eyebrow{display:inline-block;margin-bottom:8px}
+.support-card h2[id]{scroll-margin-top:80px}
+.support-thanks{font-size:.9rem}
+
 /* ---------- Responsive ---------- */
 @media(max-width:960px){
   .truth-grid{grid-template-columns:repeat(2,1fr)}
@@ -268,6 +281,8 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
   .path-desc{white-space:normal}
   .cat-hero-inner{flex-direction:column}
   .about-section{margin:0 8px 40px;border-radius:20px}
+  .support-section{margin:0 8px 40px}
+  .support-card{padding:36px 22px;border-radius:20px}
   .article-content{padding:22px 18px}
   .row-url{white-space:normal}
 }
