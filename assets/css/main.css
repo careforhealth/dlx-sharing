@@ -244,6 +244,7 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .comments h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:8px}
 .comments-desc{font-size:.84rem;color:var(--muted);margin-bottom:18px}
 .comments .giscus{max-width:100%}
+#waline{--waline-theme-color:#1E4D3F;--waline-active-color:#B85A28;--waline-font-size:15px;--waline-border-radius:12px;text-align:left}
 
 /* ---------- Responsive ---------- */
 @media(max-width:960px){

@@ -54,28 +54,31 @@ layout: default
       {% endif %}
     </nav>
 
-    {% if page.giscus_number %}
+    {% unless site.waline.server_url contains 'REPLACE' %}
     <section class="comments" id="comments">
-      <h2>讨论区留言</h2>
-      <p class="comments-desc">在这里留言会同步到 GitHub Discussions 对应帖子（需登录 GitHub，可匿名语气发言但账号可见）。理性交流，互相尊重。</p>
-      <script src="https://giscus.app/client.js"
-        data-repo="careforhealth/dlx-sharing"
-        data-repo-id="R_kgDOQ3gaAA"
-        data-category="General"
-        data-category-id="DIC_kwDOQ3gaAM4C0z6b"
-        data-mapping="number"
-        data-term="{{ page.giscus_number }}"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
+      <h2>留言讨论</h2>
+      <p class="comments-desc">不用注册，直接用昵称就能留言。理性交流，互相尊重，保护隐私请勿留真实姓名电话。</p>
+      <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+      <div id="waline"></div>
+      <script type="module">
+        import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+        init({
+          el: '#waline',
+          serverURL: '{{ site.waline.server_url }}',
+          lang: 'zh-CN',
+          meta: ['nick', 'mail', 'link'],
+          requiredMeta: ['nick'],
+          dark: 'auto',
+          pageview: false
+        });
       </script>
     </section>
-    {% endif %}
+    {% else %}
+    <section class="comments" id="comments">
+      <h2>留言讨论</h2>
+      <p class="comments-desc">评论区正在搭建中，欢迎先去 {% if page.discussion %}<a href="{{ page.discussion }}" target="_blank" rel="noopener">GitHub 讨论帖留言 ↗</a>{% else %}<a href="{{ '/join/' | relative_url }}">参与互助页留言</a>{% endif %}。</p>
+    </section>
+    {% endunless %}
   </div>
 </article>
 <button class="back-top" id="backTop" aria-label="回到顶部">↑</button>
