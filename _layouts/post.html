@@ -58,10 +58,10 @@ layout: default
     <section class="comments" id="comments">
       <h2>留言讨论</h2>
       <p class="comments-desc">不用注册，直接用昵称就能留言。理性交流，互相尊重，保护隐私请勿留真实姓名电话。</p>
-      <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@v3/dist/waline.css" />
       <div id="waline"></div>
       <script type="module">
-        import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+        import { init } from 'https://cdn.jsdelivr.net/npm/@waline/client@v3/dist/waline.js';
         init({
           el: '#waline',
           serverURL: '{{ site.waline.server_url }}',
