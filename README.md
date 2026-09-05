@@ -12,6 +12,7 @@
 我们是**患者、家属、康复者**一起建的小社区，不是医生，但都经历过同样的难。
 
 在这里，你可以：
+
 - 📚 **看懂药**：副作用、减药方法、国内外研究，用大白话讲清楚
 - 💬 **有人懂**：分享故事、问问题、难的时候有人陪
 - 🛠️ **有工具**：症状记录表、减药计划、看医生前要准备什么
@@ -25,20 +26,24 @@
 **不用从头看到尾，先看属于你的那一条。**
 
 ### A. 😷 我还在吃药，感觉不舒服 / 想了解这个药
+
 1. [系列01 💊 度洛西汀使用者互助指南](dlx/01-why-to-start.md) — 这个药的基础知识，你不是一个人在战斗
 2. [系列11a 📋 副作用识别指南](dlx/07-side-effects-complete.md) — 是病情、副作用，还是戒断反应？附需要立即就医的信号
 3. [系列02 📊 90天症状追踪表](dlx/02-health-tracking.md) — 帮你和医生说清楚到底怎么了
 
 ### B. 💔 我想减药 / 正在减，好难受
+
 1. [系列03 ⚠️ 开始前必须知道的5个真相](dlx/03-before-you-start.md) — 停药为什么这么难？要不要停？有没有替代方案？
 2. [系列04 💔 为什么戒掉这么难](dlx/04-what-we-meet.md) — 科学解释 + 为什么不能“减半”“隔天吃”
 3. [系列08 🔬 安全减药指南：减量原理与操作](dlx/07-safe-tapering-guide.md) — 双曲线递减法、5%原则、三种操作方法
 
 👉 减药中很难受？直接看：
+
 - [系列05b 💊 戒断症状应对方案](dlx/05b-withdrawal-therapies-supplements.md) — 焦虑、脑电击感、失眠、便秘怎么办
 - [系列05a 🍎 营养管理指南](dlx/05a-withdrawal-nutrition-management.md) — 稳定血糖能缓解很多不适
 
 ### C. 🧡 我是家属 / 朋友 / 已经康复，想帮忙
+
 1. [系列01 💊 使用者互助指南](dlx/01-why-to-start.md) — 先理解他在经历什么
 2. [系列07 🎯 戒断症状管理：整体策略](dlx/07-withdrawal-management-strategy.md) — 全周期怎么陪，怎么不帮倒忙
 3. 欢迎去[讨论区](https://github.com/careforhealth/dlx-sharing/discussions)分享你的陪伴经验
@@ -60,18 +65,21 @@
 <summary>📚 想系统看？点开完整指南地图（共15篇，按主题分）</summary>
 
 **一、认识药物、做决定**
+
 - [01 使用者互助指南](dlx/01-why-to-start.md) | [💬讨论2](https://github.com/careforhealth/dlx-sharing/discussions/2)
 - [03 开始前必须知道的真相](dlx/03-before-you-start.md) | [💬讨论4](https://github.com/careforhealth/dlx-sharing/discussions/4)
 - [11a 副作用识别指南](dlx/07-side-effects-complete.md) | [💬讨论13](https://github.com/careforhealth/dlx-sharing/discussions/13)
 - [10 20个高频问题解答](dlx/09-faq-resources.md) | [💬讨论12](https://github.com/careforhealth/dlx-sharing/discussions/12)
 
 **二、科学减药方法（核心）**
+
 - [04 为什么戒掉这么难](dlx/04-what-we-meet.md) | [💬讨论5](https://github.com/careforhealth/dlx-sharing/discussions/5)
 - [06 为什么隔天吃不行](dlx/06-why-alternate-day-fails.md) | [💬讨论8](https://github.com/careforhealth/dlx-sharing/discussions/8)
 - [08 安全减药：减量原理与操作](dlx/07-safe-tapering-guide.md) | [💬讨论10](https://github.com/careforhealth/dlx-sharing/discussions/10)
 - [11d 称量减量法指南](dlx/11-weighing-method.md) | [💬讨论16](https://github.com/careforhealth/dlx-sharing/discussions/16)
 
 **三、难受时怎么应对**
+
 - [05a 营养管理指南](dlx/05a-withdrawal-nutrition-management.md) | [💬讨论6](https://github.com/careforhealth/dlx-sharing/discussions/6)
 - [05b 应对方案：补充剂与非药物疗法](dlx/05b-withdrawal-therapies-supplements.md) | [💬讨论7](https://github.com/careforhealth/dlx-sharing/discussions/7)
 - [07 戒断症状管理策略](dlx/07-withdrawal-management-strategy.md) | [💬讨论9](https://github.com/careforhealth/dlx-sharing/discussions/9)
@@ -80,6 +88,7 @@
 - [11c 静坐不能应对指南](dlx/10-akathisia-guide.md) | [💬讨论15](https://github.com/careforhealth/dlx-sharing/discussions/15)
 
 **四、工具**
+
 - [02 90天症状追踪表](dlx/02-health-tracking.md) | [💬讨论3](https://github.com/careforhealth/dlx-sharing/discussions/3)
 
 </details>
@@ -91,11 +100,13 @@
 不用自己扛着，去人多的地方问一句、留一句就行。
 
 **📱 小红书（最推荐，新人先来这里）**
+
 账号：**度洛-西泮互助** ｜ ID：[11383918953](https://www.xiaohongshu.com/user/11383918953)
 
 <img src="sharing/xiaohongshu.jpg" width="200" alt="小红书二维码">
 
 **💙 GitHub Discussions（适合想细聊、存档经验）**
+
 每篇文章下面都有讨论入口，你的提问和经验会被留下来，帮到后来的人。可以匿名。
 
 👉 **你的分享，可能改变一个人的人生轨迹。**
@@ -104,11 +115,14 @@
 
 ## 5. 为了大家的安全，请花1分钟看完
 
-**✅ 欢迎：** 分享真实经历、提问、互相打气、分享靠谱资源
-**❌ 不行：** 直接给别人下“你该吃/该停”的医疗指令、推销产品、人身攻击、散布恐慌、公开别人隐私
+- ✅ **欢迎：** 分享真实经历、提问、互相打气、分享靠谱资源
+- ❌ **不行：** 直接给别人下“你该吃/该停”的医疗指令、推销产品、人身攻击、散布恐慌、公开别人隐私
 
-🚨 **出现这些情况请立即就医，不要只在网上问：**
-剧烈不适、有伤害自己的念头、静坐不能严重到无法待着、疑似严重副作用。
+> 🚨 **出现这些情况请立即就医，不要只在网上问：**
+>
+> - 剧烈不适、有伤害自己的念头
+> - 静坐不能严重到无法待着
+> - 疑似严重副作用
 
 ---
 
