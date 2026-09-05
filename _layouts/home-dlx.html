@@ -60,9 +60,6 @@ layout: default
           </span>
           <span class="path-meta">{{ p.minutes }} 分钟 {% include icon.html name='arrow' %}</span>
         </a>
-        {% if p.discussion %}
-        <a class="path-discuss" href="{{ p.discussion }}" target="_blank" rel="noopener">讨论区 ↗</a>
-        {% endif %}
       </li>
       {% endfor %}
     </ol>
