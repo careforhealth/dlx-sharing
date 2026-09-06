@@ -49,7 +49,7 @@
 
 1. [A1 💊 使用者互助指南](dlx/01-why-to-start.md) — 先理解他在经历什么
 2. [C3 🎯 戒断症状管理：整体策略](dlx/08-withdrawal-management.md) — 全周期怎么陪，怎么不帮倒忙
-3. 欢迎去[讨论区](https://github.com/careforhealth/dlx-sharing/discussions)分享你的陪伴经验
+3. 欢迎去对应文章底部留言区分享你的陪伴经验
 
 ---
 
