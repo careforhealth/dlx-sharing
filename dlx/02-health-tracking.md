@@ -263,12 +263,3 @@ permalink: /dlx/02-health-tracking/
 
 #度洛西丁 #减药经验 #症状追踪 #健康管理 #患者互助 #抗抑郁药 #数据化生活 #戒药日记
 
----
-
-### ☕ 请作者喝杯咖啡
-
-如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
-
-<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
-
-感谢一路相伴 🙏

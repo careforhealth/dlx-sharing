@@ -358,12 +358,3 @@ permalink: /dlx/01-why-to-start/
 #度洛西丁 #抗抑郁药 #用药安全
 #心理健康 #互助社区 #停药经验
 #欣百达 #SNRI #患者互助
----
-
-### ☕ 请作者喝杯咖啡
-
-如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
-
-<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
-
-感谢一路相伴 🙏

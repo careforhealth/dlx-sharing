@@ -510,12 +510,3 @@ PAWS是指停药数周后仍出现的周期性症状波动。
 👇 **加入度路西丁互助群聊社区** — 获得更多支持、分享经历、一起找安全的减药之路
 ---
 
----
-
-### ☕ 请作者喝杯咖啡
-
-如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
-
-<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
-
-感谢一路相伴 🙏

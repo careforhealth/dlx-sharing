@@ -429,12 +429,3 @@ permalink: /dlx/03-before-you-start/
 #度洛西丁 #抗抑郁药 #用药安全
 #知情同意 #心理健康 #欣百达
 #患者教育 #停药困难 #医患沟通
----
-
-### ☕ 请作者喝杯咖啡
-
-如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
-
-<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
-
-感谢一路相伴 🙏

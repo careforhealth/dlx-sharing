@@ -547,12 +547,3 @@ redirect_from:
 
 💙 希望这些症状管理方法能帮助你顺利度过减药之旅。记得继续阅读下篇了解更多！
 
----
-
-### ☕ 请作者喝杯咖啡
-
-如果这些内容曾为你带来过帮助，欢迎请作者喝杯咖啡。每一份心意，都是我们继续整理和分享的动力。
-
-<img src="https://raw.githubusercontent.com/careforhealth/dlx-sharing/main/sharing/鼓励.jpg" width="250" alt="微信鼓励码">
-
-感谢一路相伴 🙏
