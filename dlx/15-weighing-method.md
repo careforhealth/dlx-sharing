@@ -8,7 +8,9 @@ category: 减量方法
 description: 精密称重操作方法、工具清单、低剂量时的应对策略。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/16
 giscus_number: 16
-permalink: /dlx/11-weighing-method/
+permalink: /dlx/15-weighing-method/
+redirect_from:
+  - /dlx/11-weighing-method/
 ---
 # 称量减量法：科学停药的精确方案
 

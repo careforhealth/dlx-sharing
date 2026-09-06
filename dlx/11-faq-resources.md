@@ -8,7 +8,9 @@ category: 工具问答
 description: 减量原则、时间安排、戒断症状、生活支持与科学依据。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/12
 giscus_number: 12
-permalink: /dlx/09-faq-resources/
+permalink: /dlx/11-faq-resources/
+redirect_from:
+  - /dlx/09-faq-resources/
 ---
 # 💊 度洛西丁互助指南 09
 ## 20个高频问题全解答：你担心的，这里都有

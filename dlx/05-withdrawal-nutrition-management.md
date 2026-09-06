@@ -8,7 +8,9 @@ category: 症状应对
 description: 稳定血糖缓解不适：5顿小餐制、须避免的食物与抗炎饮食。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/6
 giscus_number: 6
-permalink: /dlx/05a-withdrawal-nutrition-management/
+permalink: /dlx/05-withdrawal-nutrition-management/
+redirect_from:
+  - /dlx/05a-withdrawal-nutrition-management/
 ---
 # 戒断症状营养管理指南：稳定血糖，缓解不适
 

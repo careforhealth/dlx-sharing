@@ -8,7 +8,9 @@ category: 症状应对
 description: 戒断症状完整清单、实用应对策略与减量调整信号。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/14
 giscus_number: 14
-permalink: /dlx/08-withdrawal-management-strategy/
+permalink: /dlx/13-withdrawal-coping-strategy/
+redirect_from:
+  - /dlx/08-withdrawal-management-strategy/
 ---
 # 💊 度洛西丁互助指南 08
 

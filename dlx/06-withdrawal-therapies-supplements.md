@@ -8,7 +8,9 @@ category: 症状应对
 description: 常见症状应对、核心补充剂速查表与非药物疗法总览。
 discussion: https://github.com/careforhealth/dlx-sharing/discussions/7
 giscus_number: 7
-permalink: /dlx/05b-withdrawal-therapies-supplements/
+permalink: /dlx/06-withdrawal-therapies-supplements/
+redirect_from:
+  - /dlx/05b-withdrawal-therapies-supplements/
 ---
 # 戒断症状应对方案：补充剂与非药物疗法
 ⚠️ **重要声明**
