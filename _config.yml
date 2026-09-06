@@ -1,11 +1,11 @@
 # Site settings
-title: "度洛西丁互助社区"
+title: "度洛西汀互助社区"
 tagline: "你不是一个人在战斗 · 科学减药 · 同伴支持"
-description: "由患者、家属、康复者共建的度洛西丁互助社区 — 15 篇系列指南：科学减药、症状应对与同伴支持"
+description: "由患者、家属、康复者共建的度洛西汀互助社区 — 15 篇系列指南：科学减药、症状应对与同伴支持"
 url: "https://careforhealth.github.io"
 baseurl: "/dlx-sharing"
 lang: zh-CN
-author: 度洛西丁互助社区
+author: 度洛西汀互助社区
 repo: https://github.com/careforhealth/dlx-sharing
 
 # Build settings
