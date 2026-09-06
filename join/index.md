@@ -5,27 +5,15 @@ description: 在 GitHub Discussions 分享经验、提问互助，或在小红�
 permalink: /join/
 ---
 
-## 在 GitHub Discussions 中讨论
+## 在文章下留言讨论
 
-每篇文章都有对应的讨论区，欢迎分享你的经验、提问和互相支持。你的经验将被永久保存，帮助无数后来者。
+15 篇指南每篇底部都有留言区，不用注册，用昵称就能留言、提问和互相支持。想聊哪篇，就去那篇下面聊——上下文最集中，回复也最对症。
 
-- [A1 · 你不是一个人在战斗](https://github.com/careforhealth/dlx-sharing/discussions/2) — 使用者互助指南
-- [D1 · 90天症状追踪表](https://github.com/careforhealth/dlx-sharing/discussions/3)
-- [A2 · 开始前必知的真相](https://github.com/careforhealth/dlx-sharing/discussions/4)
-- [B1 · 为什么戒掉如此困难](https://github.com/careforhealth/dlx-sharing/discussions/5)
-- [C1 · 营养管理指南](https://github.com/careforhealth/dlx-sharing/discussions/6)
-- [C2 · 戒断症状应对方案](https://github.com/careforhealth/dlx-sharing/discussions/7)
-- [B2 · 为什么隔天吃不行](https://github.com/careforhealth/dlx-sharing/discussions/8)
-- [C3 · 戒断症状管理策略](https://github.com/careforhealth/dlx-sharing/discussions/9)
-- [B3 · 科学的减量方法](https://github.com/careforhealth/dlx-sharing/discussions/10)
-- [C4 · 症状管理与应对](https://github.com/careforhealth/dlx-sharing/discussions/11)
-- [D2 · 20个高频问题](https://github.com/careforhealth/dlx-sharing/discussions/12)
-- [A3 · 副作用识别指南](https://github.com/careforhealth/dlx-sharing/discussions/13)
-- [C5 · 戒断症状科学应对](https://github.com/careforhealth/dlx-sharing/discussions/14)
-- [C6 · 静坐不能应对指南](https://github.com/careforhealth/dlx-sharing/discussions/15)
-- [B4 · 称量减量法指南](https://github.com/careforhealth/dlx-sharing/discussions/16)
+- 不知道从哪开始？先看 [A1 · 使用者互助指南]({{ '/dlx/01-why-to-start/' | relative_url }})，有疑问直接在文末留言
+- 减药中很难受？去 [C组 · 难受时怎么应对]({{ '/guide/#g-C' | relative_url }})下面找办法、问经验
+- 想系统浏览？去[系列指南目录]({{ '/guide/' | relative_url }})，按 A–D 分组找到属于你的那一篇
 
-> 提示：你可以匿名参与，保护隐私；社区成员会及时回应和支持你。
+> 提示：理性交流、互相尊重；保护隐私，请勿留真实姓名电话。你的留言会被永久保存，帮助无数后来者。
 
 ## 加入度洛西丁互助社区
 
